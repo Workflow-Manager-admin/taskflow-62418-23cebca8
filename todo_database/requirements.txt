@@ -1,0 +1,4 @@
+# Requirements for todo_database container
+# No external dependencies required for sqlite3,
+# but listed in case of future extensions.
+
